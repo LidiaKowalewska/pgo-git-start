@@ -6,5 +6,5 @@ void main() {
 
 	println("testy kolejnej gałezi");
 	println("test kolejnego comita");
-
+	println("test jeszcze jednego comita");
 }

@@ -1,4 +1,18 @@
-pierwsze repozytorium
+cwiczenie pierwsze repozytorium
+
+
+
+
+
+struktura projektu
+
+
+
+src/Main.java - proste wyświetlenie komunikatów
+
+
+
+
 
 
 
@@ -25,6 +39,16 @@ usunięcie feature/info
 dodatkowo utworzyliśmy branch feature/test
 
 
+
+
+
+
+
+struktura projektu
+
+
+
+src/Main.java - proste wyświetlenie komunikatów
 
 
 
