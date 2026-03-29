@@ -1,4 +1,4 @@
-cwiczenie pierwsze repozytorium
+cwiczenie pierwsze Repozytorium
 
 
 
@@ -38,17 +38,7 @@ usunięcie feature/info
 
 dodatkowo utworzyliśmy branch feature/test
 
-
-
-
-
-
-
-struktura projektu
-
-
-
-src/Main.java - proste wyświetlenie komunikatów
+&#x20;i merge feature/test do main
 
 
 
